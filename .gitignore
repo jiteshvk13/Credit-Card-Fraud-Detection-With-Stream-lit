@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+venv/
+.env
+
+creditcard.csv
+venv/
+__pycache__/
+*.pkl
+.ipynb_checkpoints/
